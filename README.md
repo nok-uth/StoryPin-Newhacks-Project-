@@ -1,30 +1,18 @@
-StoryPin
-A full-stack geospatial web app developed during a 24-hour hackathon. This application allows users to pin stories to specific locations and filter spots by descriptive tags. 
+# StoryPin
+A full-stack geospatial web application developed during a 24-hour hackathon. StoryPin allows users to pin personal stories to specific locations and filter those spots using descriptive tags.
 
-Features
+## Features
+* **Interactive Mapping:** Integrated Google Maps and Places APIs to create a dynamic interface for searching locations and visualizing data.
+* **Real-Time Data Management:** Utilized Firebase to handle the real-time database for user-generated content.
+* **Cloud Hosting:** The live application is hosted entirely on Firebase.
 
-Interactive Mapping: Integrated Google Maps & Places APIs to create an interactive interface for searching locations and visualizing data. 
+## Tech Stack
+* **Frontend:** React (Vite)
+* **Backend & Database:** Firebase 
+* **APIs:** Google Maps API, Google Places API 
 
-
-Real-Time Data: Utilized Firebase to manage the real-time database for user content. 
-
-
-Cloud Hosting: Hosted the live application using Firebase. 
-
-Tech Stack
-Frontend: React (Vite)
-
-
-Backend & Database: Firebase 
-
-
-APIs: Google Maps API, Google Places API 
-
-Getting Started
-To run this project locally:
-
-Clone the repository.
-
-Run npm install to install dependencies.
-
-Run npm run dev to start the local Vite server.
+## Local Setup
+To run this project locally on your machine:
+1. Clone this repository.
+2. Run `npm install` in your terminal to install the necessary dependencies.
+3. Run `npm run dev` to start the local Vite server.
