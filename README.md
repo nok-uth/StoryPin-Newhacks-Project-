@@ -1,4 +1,6 @@
 # StoryPin
+<img width="1440" height="785" alt="image" src="https://github.com/user-attachments/assets/52a1838e-542d-4a61-8c0e-fbcbe0bee4ac" />
+
 A full-stack geospatial web application developed during a 24-hour hackathon. StoryPin allows users to pin personal stories to specific locations and filter those spots using descriptive tags.
 
 ## Features
